@@ -4,17 +4,17 @@ In Ghost, there is a section to inject snippets. It’s under the Code injection
 
 ![pic](/img/2018-04-01_10h04.jpg)
 
-## For which themes?
-
-The goal is to track those snippets for each themes that [are curated](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) by FirePress.
-
 ## What does it means for the end-user?
 
-There is a few things each clients wants to configure like:
+There is a few element clients wants to easily configure like:
 
 - The size of their logos
 - Title & paragraph colors
 - Radius of pictures
+
+## For which themes?
+
+We track the default Code Injection snippets for each themes that [are curated](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) by FirePress.
 
 
 
