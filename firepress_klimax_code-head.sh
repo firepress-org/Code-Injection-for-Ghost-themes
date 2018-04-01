@@ -1,6 +1,5 @@
-<!-- FirePress 🔥 📰 -->
+<!-- FirePress.org Overide CSS styles  🔥 📰 --
 <!-- THEME: Firepress_Klimax -->
-<!-- Overide CSS styles  🔥 📰 -->
 
 <style>
     
