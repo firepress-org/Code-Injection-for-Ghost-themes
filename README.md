@@ -8,9 +8,10 @@ In Ghost, there is a section to inject snippets. It’s under the Code injection
 
 There is a few element clients wants to easily configure like:
 
-- The size of their logos
-- Title & paragraph colors
-- Radius of pictures
+- Logo size
+- Color of title & paragraph text
+- Radius of the pictures
+- etc
 
 ## For which themes?
 
