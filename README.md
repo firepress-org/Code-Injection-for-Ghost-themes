@@ -1,12 +1,12 @@
 ## What is this?
 
-In Ghost, there is a section to inject snippets. It’s under the Code injection section.
+Under the Code injection section, users can insert their own code to overide the theme.
 
 ![pic](/img/2018-04-01_10h04.jpg)
 
 ## What does it means for the end-user?
 
-There is a few element clients wants to easily configure like:
+There is a few elements clients wants to easily configure like:
 
 - Logo size
 - Color of title & paragraph text
