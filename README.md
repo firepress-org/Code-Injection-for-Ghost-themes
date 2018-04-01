@@ -15,8 +15,4 @@ There is a few element clients wants to easily configure like:
 
 ## For which themes?
 
-We track the default Code Injection snippets for each themes that [are curated](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) by FirePress.
-
-
-
-
+We track the `Code Injection snippets` for each themes that [are curated](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) by FirePress.
