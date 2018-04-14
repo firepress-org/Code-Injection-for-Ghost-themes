@@ -1,17 +1,17 @@
 <!-- Header CSS overide | by FirePress.org 🔥 📰 --
-<!-- Theme: Firepress_Klimax -->
+<!-- Theme: Firepress_Klimax1 -->
 <!-- Find this template at https://github.com/firepress-org/Code-Injection-Ghost -->
 
 <style>
-    
-// DESKTOP resolution {}
+
+// DESKTOP RESOLUTION {}
     
 // --- logo size {}
 .blog-logo img {
     height: 70px;
 }
 
-// SMARTPHONE resolution {}
+// SMARTPHONE RESOLUTION {}
 
  @media (max-width: 500px){
 .blog-logo img {
