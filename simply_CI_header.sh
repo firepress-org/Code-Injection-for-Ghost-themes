@@ -1,5 +1,5 @@
 <!-- Header CSS overide | by FirePress.org 🔥 📰 --
-<!-- Theme: Firepress_Simply -->
+<!-- Theme: simply -->
 <!-- Find this template at https://github.com/firepress-org/Code-Injection-Ghost -->
 
 <!-- FirePress 🔥 📰 -->
@@ -7,9 +7,10 @@
 
 <style>
     
-    .header-logo img {
-    max-height: 140%;
-	}
+.header-logo img {
+    max-height: 100%;
+    margin-bottom: 40px;
+}
 
 @font-face{
     font-family:simply;

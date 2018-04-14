@@ -20,7 +20,7 @@
 	}
     // Logo size {}
     img.site-logo {
-    	max-height: 12vw!important;
+    	max-height: 100px!important;
 	}
     // Main image roudness {}
     .post-full-image {
