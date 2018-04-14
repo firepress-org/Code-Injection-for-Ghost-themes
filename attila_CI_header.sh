@@ -4,17 +4,16 @@
 
 <style>
 
-// DESKTOP resolution {}
+// DESKTOP RESOLUTION {}
     
 html {
     font-size: 70%;
-    overflow-x: hidden;
 }
 
 
-// SMARTPHONE resolution {}
+// SMARTPHONE RESOLUTION {}
 
-@media only screen and (max-width: 640px)
+@media (max-width: 640px){
 html {
     font-size: 58%;
 }

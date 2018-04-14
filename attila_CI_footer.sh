@@ -4,8 +4,8 @@
 
 <style>
     
-// DESKTOP resolution {}
+// DESKTOP RESOLUTION {}
     
-// SMARTPHONE resolution {}
+// SMARTPHONE RESOLUTION {}
 
 </style>
