@@ -1,8 +1,10 @@
 ## What is this?
 
-Under the **Code injection** section, users can insert their own code to overide the theme.
+🎨 Under the **Code injection** section, users can insert their own code to overide the theme.
 
 ![pic](/img/2018-04-01_10h04.jpg)
+
+🙈 I’m aware that this README needs **more love**. [Buzz me on Twitter ](https://twitter.com/askpascalandy) if you have any questions or comments.
 
 ## What does it means for the end-user?
 
