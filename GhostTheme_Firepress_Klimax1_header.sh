@@ -11,6 +11,11 @@
     height: 70px;
 }
 
+// --- URL link color {}
+a {
+    color: #00bc40;
+}
+
 // SMARTPHONE RESOLUTION {}
 
  @media (max-width: 500px){
