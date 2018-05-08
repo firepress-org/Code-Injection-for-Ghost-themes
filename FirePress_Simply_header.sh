@@ -1,6 +1,6 @@
-<!-- Header CSS overide | by FirePress.org 🔥 📰 --
+<!-- Header CSS overide | by FirePress.org 🔥 📰 -->
 <!-- Theme: FirePress_Simply_footer -->
-<!-- Find this template at https://github.com/firepress-org/Code-Injection-for-Ghost-themes
+<!-- Find this template at https://github.com/firepress-org/Code-Injection-for-Ghost-themes -->
 
 
 <style>
