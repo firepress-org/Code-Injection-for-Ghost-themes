@@ -2,7 +2,8 @@
 
 🎨 Under the **Code injection** section, users can insert their own code to overide the theme.
 
-![pic](/img/2018-04-01_10h04.jpg)
+![pic](![screen shot 2018-05-07 at 8 31 42 pm](https://user-images.githubusercontent.com/6694151/39731464-bc1a8bb8-5235-11e8-9adf-907c13e40944.jpg)
+)
 
 🙈 I’m aware that this README needs **more love**. Time is the biggest challenge here. Feel free to [buzz me on Twitter ](https://twitter.com/askpascalandy) if you have any questions or comments.
 
