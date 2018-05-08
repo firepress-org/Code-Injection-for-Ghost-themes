@@ -6,7 +6,12 @@
 <style>
 
 // --- DESKTOP RESOLUTION --- {}
-    
+
+    // logo size {}
+    img {
+        max-width: 300%;
+    }
+
 html {
     font-size: 70%;
 }
@@ -15,8 +20,13 @@ html {
 // --- SMARTPHONE RESOLUTION --- {}
 
 @media (max-width: 640px){
-html {
-    font-size: 58%;
-}
+    
+    // logo size {}
+    img {
+        max-width: 200%;
+    }
+    html {
+        font-size: 58%;
+    }
 
 </style>
