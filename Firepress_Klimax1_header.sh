@@ -4,8 +4,8 @@
 
 <style>
 
-// DESKTOP RESOLUTION {}
-    
+// --- DESKTOP RESOLUTION --- {}
+
 // --- logo size {}
 .blog-logo img {
     height: 70px;
@@ -16,7 +16,7 @@ a {
     color: #00bc40;
 }
 
-// SMARTPHONE RESOLUTION {}
+// --- SMARTPHONE RESOLUTION --- {}
 
  @media (max-width: 500px){
 .blog-logo img {

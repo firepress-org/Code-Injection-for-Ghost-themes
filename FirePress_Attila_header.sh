@@ -1,17 +1,18 @@
 <!-- Header CSS overide | by FirePress.org 🔥 📰 --
-<!-- Theme: attila -->
+<!-- Theme: FirePress_Attila -->
 <!-- Find this template at https://github.com/firepress-org/Code-Injection-Ghost -->
+
 
 <style>
 
-// DESKTOP RESOLUTION {}
+// --- DESKTOP RESOLUTION --- {}
     
 html {
     font-size: 70%;
 }
 
 
-// SMARTPHONE RESOLUTION {}
+// --- SMARTPHONE RESOLUTION --- {}
 
 @media (max-width: 640px){
 html {

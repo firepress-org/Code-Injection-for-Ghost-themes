@@ -2,8 +2,11 @@
 <!-- Theme: Firepress_Klimax2 -->
 <!-- Find this template at https://github.com/firepress-org/Code-Injection-Ghost -->
 
+
 <style>
     
+// --- DESKTOP RESOLUTION --- {}
+
     // Menu font size {}
     .site-nav {
         font-size: 1.4rem;
@@ -63,7 +66,9 @@
     color: #fff;
     background: #000;
 	}
-    // Mobile resolution style {}
+
+    
+// --- SMARTPHONE RESOLUTION --- {}
     
     @media (max-width: 500px){
     .post-full-header {

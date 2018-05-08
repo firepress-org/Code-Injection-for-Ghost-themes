@@ -1,14 +1,11 @@
 <!-- Header CSS overide | by FirePress.org 🔥 📰 --
-<!-- Theme: vapor -->
+<!-- Theme: FirePress_Vapor -->
 <!-- Find this template at https://github.com/firepress-org/Code-Injection-Ghost -->
 
-<!-- FirePress 🔥 📰 -->
-<!-- Overide CSS styles  🔥 📰 -->
 
 <style>
-    
-// DESKTOP RESOLUTION {}
-// SMARTPHONE RESOLUTION {}
+
+// --- DESKTOP RESOLUTION --- {}
 
 p, li, dt, dd {
     font-size: 18px;
@@ -16,7 +13,7 @@ p, li, dt, dd {
     line-height: 30px;
     color: #686868;
 }
-   
+
+// --- SMARTPHONE RESOLUTION --- {}
+
 </style>
-
-
