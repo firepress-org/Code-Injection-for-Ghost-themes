@@ -17,3 +17,7 @@ body {
 // --- SMARTPHONE RESOLUTION --- {}
 
 </style>
+
+<!-- Start of Async Drift Code -->
+
+<!-- End of Async Drift Code -->
