@@ -1,5 +1,5 @@
 <!-- Header CSS overide | by FirePress.org 🔥 📰 -->
-<!-- Theme: pacific -->
+<!-- Theme: kuta -->
 <!-- Find this template at https://github.com/firepress-org/Code-Injection-for-Ghost-themes -->
 
 
@@ -7,10 +7,9 @@
 
 // --- DESKTOP RESOLUTION --- {}
 
-.header-inner img {
-    width: 250px;
+.header .title img {
+    width: 140px;
 }
-
 
 // --- SMARTPHONE RESOLUTION --- {}
 
