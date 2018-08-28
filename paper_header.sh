@@ -19,10 +19,10 @@ const config = {
     "Github": "https://github.com/pascalandy",
     "Youtube": "https://www.youtube.com/playlist?list=PL9epbd8UeXHtRu7WI4aK4RKDCThMf7-8Q",
     "Linkedin": "https://www.linkedin.com/in/pascalnguyendeschenes/",
-    "Dribbble": "https://dribbble.com",
-    "Behance": "https://behance.net",
+    "Instagram": "https://www.instagram.com/askpascalandy/",
     "Pinterest": "https://pinterest.com",
-    "Instagram": "https://instagram.com"
+    "Dribbble": "https://dribbble.com",
+    "Behance": "https://behance.net"
   },
   "newsletter":{
     "showWidget": true,
