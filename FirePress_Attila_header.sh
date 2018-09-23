@@ -8,8 +8,9 @@
 // --- DESKTOP RESOLUTION --- {}
 
     // logo size {}
-    img {
-        max-width: 300%;
+
+    .blog-logo img {
+    max-width: 6em;
     }
 
 html {
