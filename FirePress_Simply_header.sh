@@ -12,14 +12,6 @@
     margin-bottom: 40px;
 }
 
-@font-face{
-    font-family:simply;
-    src:url(https://play-with-ghost.com/live-demo-firepress-simply-for-barbershops/assets/fonts/simply.eot);
-    src:url(https://play-with-ghost.com/live-demo-firepress-simply-for-barbershops/assets/fonts/simply.eot#iefix) format("embedded-opentype"),
-        url(https://play-with-ghost.com/live-demo-firepress-simply-for-barbershops/assets/fonts/simply.ttf) format("truetype"),
-        url(https://play-with-ghost.com/live-demo-firepress-simply-for-barbershops/assets/fonts/simply.woff) format("woff"),
-        url(https://play-with-ghost.com/live-demo-firepress-simply-for-barbershops/assets/fonts/simply.svg#simply) format("svg");  
-
 // --- SMARTPHONE RESOLUTION --- {}
 
 </style>
