@@ -7,7 +7,7 @@
 
 // --- DESKTOP RESOLUTION --- {}
 a {
-    color: #B34A30;
+    color: #D56F3E;
 }
 
 // --- SMARTPHONE RESOLUTION --- {}
