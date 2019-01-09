@@ -99,7 +99,7 @@ The power of communities pull request and forks means that `1 + 1 = 3`. Help me 
 
 ## Copyright & License
 
-- This git repo is under the **GNU V3** license information. [Find it here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
+- This git repo is under the **GNU V3** license. [Find it here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
 
 
 ## Sources
